@@ -1,0 +1,16 @@
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\bin\Debug\netstandard2.0\PM02P2EJ2.deps.json
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\bin\Debug\netstandard2.0\PM02P2EJ2.dll
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\bin\Debug\netstandard2.0\ref\PM02P2EJ2.dll
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\bin\Debug\netstandard2.0\PM02P2EJ2.pdb
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.csproj.AssemblyReference.cache
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.AssemblyInfoInputs.cache
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.AssemblyInfo.cs
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.csproj.CoreCompileInputs.cache
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.dll
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\ref\PM02P2EJ2.dll
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\PM02P2EJ2.pdb
+C:\Users\josev\source\repos\PM02P2EJ2\PM02P2EJ2\PM02P2EJ2\obj\Debug\netstandard2.0\Views\ListViewFirmas.xaml.g.cs
